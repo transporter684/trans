@@ -1,0 +1,34 @@
+
+/*font-family:Abel*/
+@font-face{
+    font-family: Abel;
+    src:url("./font/Abel-Regular.ttf");
+}
+
+
+/*font-family:Anton*/
+@font-face{
+    font-family: Anton;
+    src:url("./font/Anton-Regular.ttf");
+}
+
+
+/*font-family:Josefin*/
+@font-face{
+    font-family: Josefin;
+    src:url("./font/static/JosefinSans-Regular.ttf");
+}
+
+
+/*font-family:Lexend*/
+@font-face{
+    font-family: Lexend;
+    src:url("./font/static/LexendDeca-Regular.ttf");
+}
+
+
+/*font-family:League*/
+@font-face{
+    font-family: League;
+    src:url("./font/LeagueGothic-Regular-VariableFont_wdth.ttf")
+}
